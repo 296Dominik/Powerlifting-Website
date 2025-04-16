@@ -1,0 +1,27 @@
+#rechner {
+    background-color: #2a2a2a;
+    padding: 20px;
+    margin-top: 40px;
+    border-radius: 8px;
+}
+
+#rechner input,
+#rechner select,
+#rechner button {
+    padding: 8px;
+    margin-top: 5px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+#rechner button {
+    background-color: #ff4500;
+    color: white;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+#rechner button:hover {
+    background-color: #ff6500;
+}
